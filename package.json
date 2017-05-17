@@ -1,0 +1,19 @@
+{
+  "name": "sample-json",
+  "version": "0.0.1",
+  "description": "sample josn-server [PUT-GET-POST-DELETE] example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[angular",
+    "json-server]"
+  ],
+  "author": "ravi",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-bootstrap": "^2.5.0"
+  }
+}
